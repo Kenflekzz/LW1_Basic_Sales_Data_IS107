@@ -1,5 +1,6 @@
 # LW1_Basic_Sales_Data_IS107
 
+PPT link: https://drive.google.com/drive/folders/1NclMm-AzdwZfRdtYBu9wB4RgLUqwFVhe?usp=sharing
 
 # Launching Power BI & Loading Data
 <img width="1920" height="1032" alt="Screenshot 2026-02-12 130812" src="https://github.com/user-attachments/assets/933d15d4-566e-4c4d-adc1-c367db80d654" />
