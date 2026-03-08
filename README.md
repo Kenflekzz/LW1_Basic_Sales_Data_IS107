@@ -1,6 +1,12 @@
-# LW1_Basic_Sales_Data_IS107
+# Power BI Laboratory Activity
 
-PPT link: https://drive.google.com/file/d/1tUz47WuWIqu8AkJPiCRVV4DaUAMFiexL/view?usp=drivesdk
+## Submitted By: Kenneth A. Camasura
+
+## Laboratory Title: Laboratory Work 1 - Basic Sales Data 
+
+## PDF Documentation
+
+PDF link: https://drive.google.com/file/d/1tUz47WuWIqu8AkJPiCRVV4DaUAMFiexL/view?usp=drivesdk
 
 # Launching Power BI & Loading Data
 <img width="1920" height="1032" alt="Screenshot 2026-02-12 130812" src="https://github.com/user-attachments/assets/933d15d4-566e-4c4d-adc1-c367db80d654" />
