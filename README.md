@@ -6,7 +6,7 @@
 
 ## PDF Documentation
 
-PDF link: https://drive.google.com/file/d/1tUz47WuWIqu8AkJPiCRVV4DaUAMFiexL/view?usp=drivesdk
+[click here to view PDF](./Camasura_Kenneth_LW1.pdf)
 
 # Launching Power BI & Loading Data
 <img width="1920" height="1032" alt="Screenshot 2026-02-12 130812" src="https://github.com/user-attachments/assets/933d15d4-566e-4c4d-adc1-c367db80d654" />
